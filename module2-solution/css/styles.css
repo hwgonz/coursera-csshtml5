@@ -22,10 +22,10 @@ h1 {
   color: white;
   font-size: 125%;
   margin-bottom: 15px;
-  position: relative;
+  position: absolute;
   top: 0px;
   right: 0px;
-  float: right;
+  /*float: right;*/
 }
 
 #menutitle1 {
@@ -47,6 +47,10 @@ h1 {
   background-color: white;
   color: black;
   clear:both;
+  position: relative;
+  top: 20px;
+  left: 20px;
+
 }
 
 /***** Boxes for Title and Content *****/
