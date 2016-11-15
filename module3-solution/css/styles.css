@@ -1,0 +1,22 @@
+/********** HEADER *********/
+/* Restaurant name */
+.navbar-brand h1 {
+  margin:0;
+}
+
+#nav-list {
+  background-color: #222;
+}
+
+
+/********** CONTENT *********/
+.row {
+  width: 100%;
+}
+
+#main-content {
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color: grey;
+  color: white;
+}
